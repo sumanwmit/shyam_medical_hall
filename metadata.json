@@ -1,0 +1,6 @@
+{
+  "name": "Shyam Medical - Pharmacy & Healthcare",
+  "description": "Your Trusted Medical Store for Genuine Medicines, Healthcare Essentials, & Surgical Supplies in Jehanabad, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
