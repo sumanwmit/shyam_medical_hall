@@ -298,16 +298,8 @@ export const Footer: React.FC<FooterProps> = ({ onOpenWhatsAppModal }) => {
           <div className="text-center md:text-right space-y-1">
             <p>&copy; {new Date().getFullYear()} {BUSINESS_INFO.name}. All rights reserved.</p>
             <p className="text-[11px] text-slate-500 flex items-center justify-center md:justify-end space-x-1">
-              <span>Developed by</span>
-              <a
-                href="https://main.webmakerit.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-semibold text-emerald-400 hover:underline flex items-center space-x-0.5"
-              >
-                <span>WMIT</span>
-                <ExternalLink className="w-3 h-3 inline" />
-              </a>
+              <span></span>
+             <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </p>
           </div>
         </div>
